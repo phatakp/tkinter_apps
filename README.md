@@ -1,1 +1,1 @@
-# tkinter_apps
+# tkinter based python GUI apps
